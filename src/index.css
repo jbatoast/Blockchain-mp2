@@ -3,3 +3,7 @@ html,
 body {
   height: 100%;
 }
+
+.maindiv {
+  width: fit-content;
+}
